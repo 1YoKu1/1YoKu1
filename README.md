@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1YoKu1
 - 👀 I’m interested in Linux, Programming
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on idk xD
 - 📫 How to reach me? Telegram: @YoKu333
 
